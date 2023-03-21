@@ -33,6 +33,14 @@
             const maleAkanNames = ['Kwasi', 'Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kofi', 'Kwame'];
             const femaleAkanNames = ['Akosua', 'Adwoa', 'Abenaa', 'Akua', 'Yaa', 'Afua', 'Ama'];
             
+            // Choose the appropriate Akan name based on the user's gender and day of the week they were born
+            let akanName;
+            if (gender === 'male') {
+              akanName = maleAkanNames[dayOfWeek];
+            } else {
+              akanName = femaleAkanNames[dayOfWeek];
+            }
+            
 
           }
         </script>
