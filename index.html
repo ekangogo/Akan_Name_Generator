@@ -38,24 +38,30 @@ body {
     }
     #section2{
         background-color: white;
+        
+    }
+    #section3{
+        background-color:white;
+        display: inline-block;
+        width: 60%;
+        text-align: center;
+        
     }
   </style>
 </head>
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-4">
-                <div id="section1" class="py-5">
-                    <h5>This is a web application that generates a Ghanaian name based on the user's birthday and gender.</h5> 
-                    <h5> In Ghana, babies are named based on the day of the week they were born. </h5>
-                    <h5>The application calculates the day of the week the user was born and generates a corresponding Akan name.</h5>
-                    
-                </div>
-
+            <div class="col-12">
+                <div id="section3" class="py-5">
+                    <h1>MY AKAN NAME</h1>
+                </div>           
             </div>
+          </div>
+        <div class="row">
             <div class="col-4">
                 <div id="section2" class="py-5">
-                    <h1>Akan Name Generator</h1>
+                    <h2>Get Your Akon Name Here</h2>
                     <form>
                       <label for="birthday">Enter your birthday:</label>
                       <input type="date" id="birthday" name="birthday">
@@ -92,6 +98,15 @@ body {
                         document.querySelector('#result').textContent = `Your Akan name is ${akanName}.`;
                       }
                     </script>
+                </div>
+
+            </div>
+            <div class="col-4">
+                <div id="section1" class="py-5">
+                    <h5>This is a web application that generates a Ghanaian name based on the user's birthday and gender.</h5> 
+                    <h5> In Ghana, babies are named based on the day of the week they were born. </h5>
+                    <h5>The application calculates the day of the week the user was born and generates a corresponding Akan name.</h5>
+                    
                 </div>
 
             </div>
