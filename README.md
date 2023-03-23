@@ -20,4 +20,4 @@ Open the index.html file in a web browser to access the website.<h4>
 <h3>Contact Information<h3>
 <h4>For any questions, comments, or concerns regarding the project, you can reach out to Ezekiel Kangogo at ekangogo@email.com.<h4>
 <h3>License and Copyright Information<h3>
-<h4>The Akan Names Generator Website is released under the MIT License. The project's source code can be found on Github at https://github.com/ekangogo/akan-names-generator-website.<h4>
+<h4>The Akan Names Generator Website is released under the MIT License. The project's source code can be found on Github at https://ekangogo.github.io/Akan_Name_Generator/.<h4>
