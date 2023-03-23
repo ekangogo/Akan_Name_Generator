@@ -1,7 +1,7 @@
 <h3>Project Name<h3>
 <h4>This project is called "Akan Names Generator Website".<h4>
 <h3>Project Description<h3>
-<h4>The Akan Names Generator Website is a web application that generates a Ghanaian name based on the user's birthday and gender. In Ghana, babies are named based on the day of the week they were born. The application calculates the day of the week the user was born and generates a corresponding Akan name. The website also provides information about the meaning of the name and its origin.<h4>
+<h4>The Akan Names Generator Website is a web application that generates a Ghanaian name based on the user's birthday and gender. In Ghana, babies are named based on the day of the week they were born. The application calculates the day of the week the user was born and generates a corresponding Akan name.<h4>
 <h3>Author(s) Information<h3>
 <h4>The Akan Names Generator Website was developed by Ezekiel Kangogo. For any questions, comments, or concerns regarding the project, you can reach out to Ezekiel Kangogo at ekangogo@email.com..<h4>
 <h3>Setup Instructions<h3>
